@@ -1,0 +1,20 @@
+*, html, body{
+}
+
+h1 {
+    color: red
+}
+
+p{
+    color: green;
+}
+
+h2{
+    border: 5px solid green;
+    color: blue;
+}
+
+p1{
+    color: green;
+
+}
